@@ -24,6 +24,7 @@
     <ProjectGuid>{ebcaf5e5-b7fe-46c1-93d8-551edc286f29}</ProjectGuid>
     <RootNamespace>OpenGLBase</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Hermite</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
